@@ -1,0 +1,11 @@
+C:\Users\juansebastian\Desktop\FinalProject\Business_Logic\bin\Debug\Business_Logic.dll
+C:\Users\juansebastian\Desktop\FinalProject\Business_Logic\bin\Debug\Business_Logic.pdb
+C:\Users\juansebastian\Desktop\FinalProject\Business_Logic\bin\Debug\Data_Access_Layer.dll
+C:\Users\juansebastian\Desktop\FinalProject\Business_Logic\bin\Debug\Entities.dll
+C:\Users\juansebastian\Desktop\FinalProject\Business_Logic\bin\Debug\EntityFramework.dll
+C:\Users\juansebastian\Desktop\FinalProject\Business_Logic\bin\Debug\Data_Access_Layer.pdb
+C:\Users\juansebastian\Desktop\FinalProject\Business_Logic\bin\Debug\Entities.pdb
+C:\Users\juansebastian\Desktop\FinalProject\Business_Logic\bin\Debug\EntityFramework.xml
+C:\Users\juansebastian\Desktop\FinalProject\Business_Logic\obj\Debug\Business_Logic.csprojResolveAssemblyReference.cache
+C:\Users\juansebastian\Desktop\FinalProject\Business_Logic\obj\Debug\Business_Logic.dll
+C:\Users\juansebastian\Desktop\FinalProject\Business_Logic\obj\Debug\Business_Logic.pdb

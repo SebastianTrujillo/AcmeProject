@@ -1,0 +1,14 @@
+C:\Users\juansebastian\Desktop\FinalProject\User_Interface_Console\bin\Debug\User_Interface_Console.exe.config
+C:\Users\juansebastian\Desktop\FinalProject\User_Interface_Console\bin\Debug\User_Interface_Console.exe
+C:\Users\juansebastian\Desktop\FinalProject\User_Interface_Console\bin\Debug\User_Interface_Console.pdb
+C:\Users\juansebastian\Desktop\FinalProject\User_Interface_Console\bin\Debug\Business_Logic.dll
+C:\Users\juansebastian\Desktop\FinalProject\User_Interface_Console\bin\Debug\Entities.dll
+C:\Users\juansebastian\Desktop\FinalProject\User_Interface_Console\bin\Debug\Data_Access_Layer.dll
+C:\Users\juansebastian\Desktop\FinalProject\User_Interface_Console\bin\Debug\EntityFramework.dll
+C:\Users\juansebastian\Desktop\FinalProject\User_Interface_Console\bin\Debug\Business_Logic.pdb
+C:\Users\juansebastian\Desktop\FinalProject\User_Interface_Console\bin\Debug\Entities.pdb
+C:\Users\juansebastian\Desktop\FinalProject\User_Interface_Console\bin\Debug\Data_Access_Layer.pdb
+C:\Users\juansebastian\Desktop\FinalProject\User_Interface_Console\bin\Debug\EntityFramework.xml
+C:\Users\juansebastian\Desktop\FinalProject\User_Interface_Console\obj\Debug\User_Interface_Console.csprojResolveAssemblyReference.cache
+C:\Users\juansebastian\Desktop\FinalProject\User_Interface_Console\obj\Debug\User_Interface_Console.exe
+C:\Users\juansebastian\Desktop\FinalProject\User_Interface_Console\obj\Debug\User_Interface_Console.pdb
