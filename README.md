@@ -1,2 +1,2 @@
 # AcmeProject
-Software para apoyar la Pre-Venta de productos tienda a tienda
+(C# Project) - Software para apoyar la Pre-Venta de productos tienda a tienda
