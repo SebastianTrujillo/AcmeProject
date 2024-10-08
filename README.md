@@ -1,2 +1,2 @@
 # AcmeProject
-(C# Project) - Software para apoyar la Pre-Venta de productos
+(C# Project) - Software to support product pre-sales
